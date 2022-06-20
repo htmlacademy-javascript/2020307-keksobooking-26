@@ -4,3 +4,4 @@ function GetRandomNumber(min, max) {
 }
 
 GetRandomNumber(1, 100);
+
